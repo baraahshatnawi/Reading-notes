@@ -1,6 +1,6 @@
 # Seeing your remote 
 
-**There are two typs of remote** :
+**There are two types of remote** :
 
 1 ***git remote*** :
 
@@ -8,7 +8,7 @@
 
 2 ***git remote -v*** :
 
-*_which you can use to view all remote URLs next to thier corresponding short names_*
+*_which you can use to view all remote URLs next to their corresponding short names_*
 
 ~~Skip this nothing to read~~
 
