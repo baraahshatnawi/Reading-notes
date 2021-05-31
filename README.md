@@ -20,7 +20,7 @@
 
 ### remind yourself that you can do whatever you want
 ### remind yourself that it's your dream and you have to achieve 
-### remind yourself that it's important to buliding your career  
+### remind yourself that it's important to bulid your career  
 
 ***Here is an important advice***
  
