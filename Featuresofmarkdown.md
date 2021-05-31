@@ -1,6 +1,6 @@
 # Markdown:
 
-**As a definition it means a syntax or way to style the forms of writting on the GitHub platform**
+**As a definition it means a syntax or way to style the forms of writing on the GitHub platform**
 
 ***It's a way to style a text on the web*** 
 
