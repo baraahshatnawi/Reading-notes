@@ -16,10 +16,7 @@
 
 | **Read03**           |[Git Introduction](https://baraahshatnawi.github.io/Reading-notes/GitIntro)               |
 
-
-
-
-
+| **Read04            | [HTML](https://baraahshatnawi.github.io/Reading-notes/html)             |
 
 
 
