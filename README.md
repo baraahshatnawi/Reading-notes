@@ -1,31 +1,19 @@
-# Growth Mindset 
+# Bara'ah M Shatnawi 
 
-**Growth mindset defined as a self perception or _Self Theory_ that people hold  about themselevs**
+***An English Language and Literature graduate student from AABU in 2018. I worked in the feiled of education for mostly three years. Later, I realized that I have to expand my knowledge and take a new step towards  a bright future  career so I joined a programming course which I'm sure it will a great addition to experiece*** 
+---
+ .
 
-**_Growth mindset_ is the oppisete for _Fixed mindset_ which means beleiving that alone create success without effort**
+# Table of Contents . 
+| **name**        | **link** |
+| ---             | ---    
+| read one  |[Growthmindset] (https://baraahshatnawi.github.io/Reading-notes/Growthmindset) | 
+| read two       |[Markdown] (https://baraahshatnawi.github.io/Reading-notes/Markdown) |
+| read three      |[GitIntro] (https://baraahshatnawi.github.io/Reading-notes/gitIntro) |
 
-#### To  maintain your growth mindset you have to:
 
-**_embrece the challanges_**
 
-**_persist the obstacles_**
 
-**_put your effort_**
 
-**_learn from criticsim_**
 
-**At the end it helps grow and be more prodactive**
 
-# Three remindes to self:
-
-### remind yourself that you can do whatever you want
-### remind yourself that it's your dream and you have to achieve 
-### remind yourself that it's important to bulid your career  
-
-***Here is an important advice***
- 
-~~Don't lose confidance in youself~~
-
-**
-
-**All the mentioned informations are important**   
