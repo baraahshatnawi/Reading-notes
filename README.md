@@ -4,12 +4,19 @@
 ---
  .
 
-# Table of Contents . 
+# Table of Contents .
+
 | **name**        | **link** |
-| ---             | ---    
-| read01  | [Growthmindset](https://baraahshatnawi.github.io/Reading-notes/Growthmindset) | 
-| read02      | [Markdown](https://baraahshatnawi.github.io/Reading-notes/Markdown) |
-| read03      | [GitIntro](https://baraahshatnawi.github.io/Reading-notes/gitIntro) |
+
+| ---             | ---       |
+
+| **read01**  | [Growthmindset](https://baraahshatnawi.github.io/Reading-notes/Growthmindset) | 
+| **read02**      | [Markdown](https://baraahshatnawi.github.io/Reading-notes/Markdown) |
+
+| **read03**      | [GitIntro](https://baraahshatnawi.github.io/Reading-notes/gitIntro) |
+
+
+
 
 
 
