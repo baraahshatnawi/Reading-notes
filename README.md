@@ -8,7 +8,7 @@
 
 | **Name**           |  **Link**            |
 
-| ---           |  ---             |
+
 
 | **Read01**           |[Growth mindset](https://baraahshatnawi.github.io/Reading-notes/Growthmindset)               |
 
