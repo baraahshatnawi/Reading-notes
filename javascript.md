@@ -10,11 +10,11 @@
 
 **1. Runs on the client sideon the webpage.**
 
-**2. Used to design or programm how the web pages behave on the occurrence of an evfent.**
+**2. Used to design or program how the web pages behave on the occurrence of an event.**
 
 **3. Used for controlling the webpage behavior.**
 
-**4. It's a dynamic scripting supporting prototypes based object constraction.**
+**4. It's a dynamic scripting supporting prototypes based object construction.**
 
 **Programming : Aset of instructions given to computer to execute.**
 
@@ -24,9 +24,9 @@
 
 **- Semantic : the the meaning.**
 
-# How to connect theJS file with the HTML file?
+# How to connect the JS file with the HTML file?
 
-***first of all create a new file for the JS with (.js) extintion.***
+***first of all create a new file for the JS with (.js) extension.***
 
 ***Now, write a yhe tag < script + src + th name of the JS file >***
 
@@ -38,9 +38,9 @@
 
 **3. String , everything written between the ( " " ) even if it's a number.**
 
-**4. Operatores : they are 2 types**
+**4. Operators : they are 2 types**
  
- **- Arthamtic operators : like ( + , / , - , * )**
+ **- Asthamtic operators : like ( + , / , - , * )**
 
  **- Comparative operators : like ( == ) which compares the value and ( === ) which compares the type.**
 
@@ -52,17 +52,17 @@
 
 # Pop up Box 
 
-**A type of a box shows informations to the user.**
+**A type of a box shows information to the user.**
 
 **Pop up box types :**
 
-**1.  alert box : show informations.**
+**1.  alert box : show information.**
 
-**2. prompt : to ask a question in a pop up way. And you can get the input by making a varaible.**
+**2. prompt : to ask a question in a pop up way. And you can get the input by making a variable.**
 
-# Conditional statments 
+# Conditional statements 
 
-**It's (If statment) when you have a condition in a statment.** 
+**It's (If statement) when you have a condition in a staetment.** 
 
 
 ~~Baraah~~ 
