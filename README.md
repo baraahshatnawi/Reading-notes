@@ -6,19 +6,19 @@
 
 # Table of Contents .
 
-| **Name**           |  **Link**            |
+| ***Name***           |  ***Link***            |
 
 
 
-| **Read01**           |[Growth mindset](https://baraahshatnawi.github.io/Reading-notes/Growthmindset)               |
+| ***Read01***           |[Growth mindset](https://baraahshatnawi.github.io/Reading-notes/Growthmindset)               |
 
-| **Read02**           |[Markdown](https://baraahshatnawi.github.io/Reading-notes/Markdown)               |
+| ***Read02***           |[Markdown](https://baraahshatnawi.github.io/Reading-notes/Markdown)               |
 
-| **Read03**           |[Git Introduction](https://baraahshatnawi.github.io/Reading-notes/GitIntro)               |
+| ***Read03***           |[Git Introduction](https://baraahshatnawi.github.io/Reading-notes/GitIntro)               |
 
-| **Read04            | [HTML](https://baraahshatnawi.github.io/Reading-notes/html)             |
+| ***Read04***            | [HTML](https://baraahshatnawi.github.io/Reading-notes/html)             |
 
 
-
+| ***Read05***            |[Javascript](https://baraahshatnawi.github.io/Reading-notes/javascript)
 
 
