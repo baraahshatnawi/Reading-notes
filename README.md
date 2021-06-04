@@ -19,6 +19,8 @@
 | ***Read04***            | [HTML](https://baraahshatnawi.github.io/Reading-notes/html)             |
 
 
-| ***Read05***            |[Javascript](https://baraahshatnawi.github.io/Reading-notes/javascript)
+| ***Read05***            |[Javascript](https://baraahshatnawi.github.io/Reading-notes/javascript) |
 
+| ***Read06***            | [Operators & Loops](https://baraahshatnawi.github.io/Reading-notes/operatorLoop)                 |
 
+| ***Read07***             | [CSS](https://baraahshatnawi.github.io/Readind-notes/cssfile)    |
