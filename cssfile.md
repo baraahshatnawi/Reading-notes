@@ -114,4 +114,3 @@
 ***The CSS height and width properties are used to set the height and width of an element.***
 
 ***The CSS max-width property is used to set the maximum width of an element.***
-

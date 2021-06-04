@@ -30,10 +30,3 @@
 
 
 ***All the information above are important***
-
-
-
-
-
-
-

@@ -40,8 +40,3 @@
 *_which you can use to view all remote URLs next to their corresponding short names_*
 
 ~~Skip this nothing to read~~
-
-
-
-
-
