@@ -24,3 +24,5 @@
 | ***Read06***            | [Operators & Loops](https://baraahshatnawi.github.io/Reading-notes/operatorLoop)                 |
 
 | ***Read07***             | [CSS](https://baraahshatnawi.github.io/Reading-notes/cssfile)    |
+
+| ***Read08***            | [Functions](https://baraahshatnawi.github.io/Reading-notes/Functions) 
